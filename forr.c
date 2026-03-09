@@ -9,6 +9,7 @@ int main ()
     {
         printf("Something,s here\n");
         printf("proceed\n");
+        Printf("\n");
     }
     return 0;
 }
