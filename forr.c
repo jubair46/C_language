@@ -8,6 +8,7 @@ int main ()
     for(i=0;i<=n;i++)
     {
         printf("Something,s here\n");
+        printf("proceed\n");
     }
     return 0;
 }
