@@ -10,6 +10,8 @@ int main ()
         printf("Something,s here\n");
         printf("proceed\n");
         printf("neutral\n");
+        printf("neutral\n");
+
     }
     return 0;
 }
