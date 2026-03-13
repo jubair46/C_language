@@ -4,9 +4,9 @@ int main()
 {
     int a,b,c;
     printf("enter three numbers =");
-    scanf("%d,%d,%d"&a,&b,&c);
+    scanf("%d,%d,%d",&a,&b,&c);
 
-    if(a==b && a>c) || (a==c && a>b)
+    if((a==b && a>c) || (a==c && a>b))
     {
         printf("same inputs given");
     }
@@ -24,7 +24,7 @@ int main()
     }
     else
     {
-        printf("all inputss are same")
+        printf("all inputss are same");
     }
     return 0;
 }
